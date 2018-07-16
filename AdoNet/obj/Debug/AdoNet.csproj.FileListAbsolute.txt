@@ -1,0 +1,12 @@
+c:\users\p106\source\repos\AdoNet\AdoNet\bin\Debug\Db\Sample.mdf
+c:\users\p106\source\repos\AdoNet\AdoNet\bin\Debug\Db\Sample_log.ldf
+c:\users\p106\source\repos\AdoNet\AdoNet\bin\Debug\AdoNet.exe.config
+c:\users\p106\source\repos\AdoNet\AdoNet\bin\Debug\AdoNet.exe
+c:\users\p106\source\repos\AdoNet\AdoNet\bin\Debug\AdoNet.pdb
+c:\users\p106\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.csprojResolveAssemblyReference.cache
+c:\users\p106\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.Form1.resources
+c:\users\p106\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.Properties.Resources.resources
+c:\users\p106\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.GenerateResource.Cache
+c:\users\p106\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+c:\users\p106\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.exe
+c:\users\p106\source\repos\AdoNet\AdoNet\obj\Debug\AdoNet.pdb
