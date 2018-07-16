@@ -1,0 +1,12 @@
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\bin\Debug\Data\Database1.mdf
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\bin\Debug\Data\Database1_log.ldf
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\bin\Debug\newsqlAdoNet.exe.config
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\bin\Debug\newsqlAdoNet.exe
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\bin\Debug\newsqlAdoNet.pdb
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\obj\Debug\newsqlAdoNet.csprojResolveAssemblyReference.cache
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\obj\Debug\newsqlAdoNet.Form1.resources
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\obj\Debug\newsqlAdoNet.Properties.Resources.resources
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\obj\Debug\newsqlAdoNet.csproj.GenerateResource.Cache
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\obj\Debug\newsqlAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\obj\Debug\newsqlAdoNet.exe
+C:\Users\P106\source\repos\newsqlAdoNet\newsqlAdoNet\obj\Debug\newsqlAdoNet.pdb
